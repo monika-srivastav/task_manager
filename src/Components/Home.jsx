@@ -278,7 +278,7 @@ const Home = () => {
             </button>
 
           </div>
-          <div className="flex justify-center">------------------OR------------------</div>
+          <div className="flex justify-center">OR</div>
           <div className="mt-4">
         <input
           type="file"
